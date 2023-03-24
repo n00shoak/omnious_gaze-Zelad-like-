@@ -1,0 +1,4 @@
+détecter le pointeurs en permanence
+faire marcher le zoom
+animer la porte
+détruire un objet

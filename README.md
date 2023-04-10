@@ -1,2 +1,2 @@
-# omnious_gaze-Zelad-like-
+# DEAD-sight-Zelad-like-
 WIP
